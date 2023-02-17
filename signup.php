@@ -56,7 +56,7 @@ session_start();
 		</div>
 
 		<div class="form__field">
-			<input type="submit" value="Login">
+			<input type="submit" value="Register">
 		</div>
 
 		</form>
