@@ -168,7 +168,7 @@ while ($row=mysqli_fetch_array($ret)) {
 ?>
 
                      <div class="col-sm-7" align="right">
-                        <a href="edit.php?editid=<?php echo htmlentities ($row['ID']);?>" class="btn btn-primary"><span>Edit User Details</span></a>
+                        <a href="edit.php?editid=<?php echo htmlentities ($row['ID']);?>" class="btn btn-primary"><span>Edit Picture Details</span></a>
                                         
                     </div>
                 </div>
