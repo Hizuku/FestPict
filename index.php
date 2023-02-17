@@ -181,8 +181,8 @@ table.table td i {
             <table class="table table-striped table-hover">
                 <thead>
                     <tr>
-                        <th>#</th>
-                        <th>Profile Pic</th>
+                        <th>No</th>
+                        <th>Picture</th>
                         <th>Name</th>                       
                         <th>Created Date</th>
                         <th>Action</th>
