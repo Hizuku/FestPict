@@ -133,7 +133,7 @@ $ret=mysqli_query($con,"select * from tblusers where ID='$eid'");
 while ($row=mysqli_fetch_array($ret)) {
 ?>
 		<h2>Update </h2>
-		<p class="hint-text">Update your info.</p>
+		<p class="hint-text">Update your Picture.</p>
 
 	<div class="form-group">
 <img src="profilepics/<?php  echo $row['ProfilePic'];?>" width="120" height="120">
